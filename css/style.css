@@ -1,0 +1,48 @@
+*{
+    background-color: black;
+    color: white;
+}
+.logo{
+    width: 10%;
+}
+.search{
+    width: 150px;
+    margin-left: 25px;
+}
+.img1{
+    border: 1px solid silver;
+    width: 150px;
+    height: 200px;
+}
+.img2{
+    width: 200px;
+    height: 200px;
+}
+.journey{
+    color: gray;
+    margin-top: 5px;
+    font-size: 13px;
+    margin-left: 27%;
+}
+.install{
+    color: gray;
+    margin-top: 5px;
+    font-size: 13px;
+    margin-left: 46%;
+}
+.instal{
+    color: gray;
+    margin-top: 5px;
+    font-size: 13px;
+    margin-left: 15%;
+}
+.qs{
+    color: gray;
+    margin-top: 5px;
+    font-size: 13px;
+    margin-left: 14.8%;
+}
+.worldwar{
+    color: gray;
+    margin-left:35% ;
+}
